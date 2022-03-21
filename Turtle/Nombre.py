@@ -3,7 +3,7 @@ T=turtle.Turtle()
 T.hideturtle()
 turtle.bgcolor("black")
 cc=1
-T.speed(1000)
+T.speed(100)
 T.pencolor("white")
 while cc<500:
     
